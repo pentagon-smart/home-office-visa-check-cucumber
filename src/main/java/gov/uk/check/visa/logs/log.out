@@ -1,0 +1,4 @@
+2023-07-25 21:07:686 INFO  ResultPage :28 - Getting result: [[ChromeDriver: chrome on windows (e610ad63440616e8953c4c15346c19c4)] -> xpath: //h2[normalize-space()='You will not need a visa to come to the UK']]
+2023-07-25 21:07:323 INFO  DurationOfStayPage :40 - Click on Next Button[[ChromeDriver: chrome on windows (4cd480e1892d9307a8bb67de8e808eca)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 21:07:595 INFO  ResultPage :34 - Getting result: [[ChromeDriver: chrome on windows (4cd480e1892d9307a8bb67de8e808eca)] -> xpath: //h2[contains(text(),'You do not need a visa for some business and acade')]]
+2023-07-25 21:07:660 INFO  ResultPage :39 - Getting result: [[ChromeDriver: chrome on windows (eb3a0598bed80ef17cf5c3409817c5a2)] -> xpath: //h2[normalize-space()='You may need a visa']]
